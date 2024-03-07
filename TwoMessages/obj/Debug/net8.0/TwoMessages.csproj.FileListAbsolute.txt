@@ -1,0 +1,15 @@
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/bin/Debug/net8.0/TwoMessages
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/bin/Debug/net8.0/TwoMessages.deps.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/bin/Debug/net8.0/TwoMessages.runtimeconfig.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/bin/Debug/net8.0/TwoMessages.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/bin/Debug/net8.0/TwoMessages.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.AssemblyInfoInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.AssemblyInfo.cs
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.csproj.CoreCompileInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.sourcelink.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/refint/TwoMessages.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.genruntimeconfig.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/ref/TwoMessages.dll

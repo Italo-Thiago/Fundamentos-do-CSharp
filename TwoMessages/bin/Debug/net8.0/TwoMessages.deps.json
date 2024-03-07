@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TwoMessages/1.0.0": {
+        "runtime": {
+          "TwoMessages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwoMessages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
