@@ -1,0 +1,15 @@
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/bin/Debug/net8.0/Formatação_Básica
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/bin/Debug/net8.0/Formatação_Básica.deps.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/bin/Debug/net8.0/Formatação_Básica.runtimeconfig.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/bin/Debug/net8.0/Formatação_Básica.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/bin/Debug/net8.0/Formatação_Básica.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.AssemblyInfoInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.AssemblyInfo.cs
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.csproj.CoreCompileInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.sourcelink.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/refint/Formatação_Básica.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/Formatação_Básica.genruntimeconfig.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Formatação_Básica/obj/Debug/net8.0/ref/Formatação_Básica.dll

@@ -1,0 +1,15 @@
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/bin/Debug/net8.0/Variaveis
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/bin/Debug/net8.0/Variaveis.deps.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/bin/Debug/net8.0/Variaveis.runtimeconfig.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/bin/Debug/net8.0/Variaveis.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/bin/Debug/net8.0/Variaveis.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.AssemblyInfoInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.AssemblyInfo.cs
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.csproj.CoreCompileInputs.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.sourcelink.json
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/refint/Variaveis.dll
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.pdb
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/Variaveis.genruntimeconfig.cache
+/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Variaveis/obj/Debug/net8.0/ref/Variaveis.dll
