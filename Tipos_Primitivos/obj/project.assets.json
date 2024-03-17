@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/italothiagodev/.nuget/packages/": {}
+    "C:\\Users\\italo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Números_Primitivos/Números_Primitivos.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Fundamentos-do-CSharp\\Tipos_Primitivos\\Números_Primitivos.csproj",
       "projectName": "Números_Primitivos",
-      "projectPath": "/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Números_Primitivos/Números_Primitivos.csproj",
-      "packagesPath": "/home/italothiagodev/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Números_Primitivos/obj/",
+      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Fundamentos-do-CSharp\\Tipos_Primitivos\\Números_Primitivos.csproj",
+      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Fundamentos-do-CSharp\\Tipos_Primitivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/italothiagodev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

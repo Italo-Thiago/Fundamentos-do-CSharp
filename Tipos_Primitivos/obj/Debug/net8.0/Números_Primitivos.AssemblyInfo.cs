@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Números_Primitivos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5148f388222c7cd083140aecc6417da1552b9ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ff8f98b370bb94b677d136452d47ae4d042701")]
 [assembly: System.Reflection.AssemblyProductAttribute("Números_Primitivos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Números_Primitivos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

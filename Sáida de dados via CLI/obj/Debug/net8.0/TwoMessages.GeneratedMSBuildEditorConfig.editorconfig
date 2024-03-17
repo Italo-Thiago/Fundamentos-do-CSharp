@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TwoMessages
-build_property.ProjectDir = /mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/
+build_property.ProjectDir = C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

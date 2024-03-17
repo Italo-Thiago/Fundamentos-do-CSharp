@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Números_Primitivos
-build_property.ProjectDir = /mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/Números_Primitivos/
+build_property.ProjectDir = C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tipos_Primitivos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
