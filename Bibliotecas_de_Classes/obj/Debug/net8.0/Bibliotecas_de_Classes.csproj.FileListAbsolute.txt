@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\bin\Debug\net8.0\Bibliotecas_de_Classes.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\bin\Debug\net8.0\Bibliotecas_de_Classes.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\bin\Debug\net8.0\Bibliotecas_de_Classes.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\bin\Debug\net8.0\Bibliotecas_de_Classes.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\bin\Debug\net8.0\Bibliotecas_de_Classes.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\refint\Bibliotecas_de_Classes.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\Bibliotecas_de_Classes.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Bibliotecas_de_Classes\obj\Debug\net8.0\ref\Bibliotecas_de_Classes.dll
