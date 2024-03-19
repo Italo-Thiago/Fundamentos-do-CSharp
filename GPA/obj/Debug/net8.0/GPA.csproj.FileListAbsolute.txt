@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\bin\Debug\net8.0\GPA.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\bin\Debug\net8.0\GPA.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\bin\Debug\net8.0\GPA.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\bin\Debug\net8.0\GPA.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\bin\Debug\net8.0\GPA.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\refint\GPA.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\GPA.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\GPA\obj\Debug\net8.0\ref\GPA.dll

@@ -23,4 +23,12 @@ Console.WriteLine(roll);
 Console.WriteLine("\n Métodos com estado vs sem estado");
 Console.WriteLine(@"
 Estado => Descreve a condição do ambiente de execução em um momento específico no tempo
-")
+Conforme seu código executa linha por linha, os valores são armazenados em variáveis. A qualquer momento durante a execução, o estado atual do aplicativo é a coleção de todos os valores armazenados na memória.
+
+Alguns métodos não dependem do estado atual do aplicativo para funcionarem corretamente. Em outras palavras, os métodos sem estado são implementados para que possam funcionar sem referenciar ou alterar os valores já armazenados na memória. Os métodos sem estado também são conhecidos como métodos estáticos.
+
+A versão mais recente do Runtime do .NET permite que você crie uma instância de um objeto sem ter que repetir o nome do tipo (invocação de construtor com tipo de destino). Por exemplo, o código a seguir criará uma nova instância da classe Random:
+
+Random dice = new();
+");
+
