@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\bin\Debug\net8.0\Maior_número.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\bin\Debug\net8.0\Maior_número.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\bin\Debug\net8.0\Maior_número.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\bin\Debug\net8.0\Maior_número.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\bin\Debug\net8.0\Maior_número.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\refint\Maior_número.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\Maior_número.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Maior_número\obj\Debug\net8.0\ref\Maior_número.dll
