@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\bin\Debug\net8.0\Método_Sobrecarregado.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\bin\Debug\net8.0\Método_Sobrecarregado.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\bin\Debug\net8.0\Método_Sobrecarregado.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\bin\Debug\net8.0\Método_Sobrecarregado.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\bin\Debug\net8.0\Método_Sobrecarregado.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\refint\Método_Sobrecarregado.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\Método_Sobrecarregado.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Método_Sobrecarregado\obj\Debug\net8.0\ref\Método_Sobrecarregado.dll
