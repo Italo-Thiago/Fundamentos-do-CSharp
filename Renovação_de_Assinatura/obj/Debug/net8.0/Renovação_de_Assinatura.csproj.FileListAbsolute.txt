@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\bin\Debug\net8.0\Renovação_de_Assinatura.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\bin\Debug\net8.0\Renovação_de_Assinatura.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\bin\Debug\net8.0\Renovação_de_Assinatura.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\bin\Debug\net8.0\Renovação_de_Assinatura.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\bin\Debug\net8.0\Renovação_de_Assinatura.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\refint\Renovação_de_Assinatura.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\Renovação_de_Assinatura.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Renovação_de_Assinatura\obj\Debug\net8.0\ref\Renovação_de_Assinatura.dll
