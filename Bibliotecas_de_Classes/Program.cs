@@ -1,4 +1,4 @@
-﻿Console.WriteLine("\nA biblioteca de classes do .NET fornece uma grande variedade de funcionalidades que podem ser usadas simplesmente conferindo as classes e os métodos necessários.");
+﻿Console.WriteLine "\n A biblioteca de classes do .NET fornece uma grande variedade de funcionalidades que podem ser usadas simplesmente conferindo as classes e os métodos necessários.");
 
 Console.WriteLine("\nAté mesmo seus tipos de dados fazem parte da biblioteca de classes do .NET. O C# simplesmente fornece um alias para esses tipos de dados");
 
@@ -13,10 +13,11 @@ Adicione o operador de chamada do método, que é um conjunto de parênteses ().
 Finalmente, especifique os argumentos que serão transmitidos ao método, se houver algum, entre os parênteses do operador de invocação de método. Aqui, você especifica o texto que deseja que o método (Console.WriteLine()) escreva no console (por exemplo, (Hello World)
 ");
 
-Console.WriteLine("\n");
+
 // Instanciação da classe Random
-Random dice = new Random();
-// atribui a roll o valor de dice que utiliza um método chamado Next() que randomiza um valor inteiro de 1 a 7.
+Random dice = new Random(); 
+))
+O
 int roll = dice.Next(1, 7);
 Console.WriteLine(roll);
 
@@ -31,4 +32,8 @@ A versão mais recente do Runtime do .NET permite que você crie uma instância 
 
 Random dice = new();
 ");
+Console.WriteLine("\n Parâmetros de entrada");
 
+Console.WriteLine(@"
+
+");

@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\bin\Debug\net8.0\Jogo_de_Dados.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\bin\Debug\net8.0\Jogo_de_Dados.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\bin\Debug\net8.0\Jogo_de_Dados.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\bin\Debug\net8.0\Jogo_de_Dados.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\bin\Debug\net8.0\Jogo_de_Dados.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\refint\Jogo_de_Dados.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\Jogo_de_Dados.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Jogo_de_Dados\obj\Debug\net8.0\ref\Jogo_de_Dados.dll

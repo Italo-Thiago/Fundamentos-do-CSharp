@@ -13,10 +13,12 @@ Console.WriteLine(number + numberTwo);
 // Mudança implicita de int para string
 string firstName = "Bob";
 Console.WriteLine(firstName + " sold " + number + 7 + " widgets.");
+
 // Bob sold 207 widgets
 
 // Adicionando parênteses para ordem de precedência
 Console.WriteLine(firstName + " sold " + (number + 7) + " widgets.");
+
 // Bob sold 27 widgets
 
 /* Operadores Aritméticos   Operadores de Atribuição   Operadores Lógicos   Operadores de Comparação
@@ -32,10 +34,13 @@ Console.WriteLine(firstName + " sold " + (number + 7) + " widgets.");
 
 // Adição
 int sum = 7 + 5;
+
 // Subtração
 int difference = 7 - 5;
-// Multiplicação 
+
+// Multiplicação
 int product = 7 * 5;
+
 // Divisão
 int quotient = 7 / 5;
 

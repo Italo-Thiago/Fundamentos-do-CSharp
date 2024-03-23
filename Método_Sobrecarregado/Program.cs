@@ -6,3 +6,4 @@ int roll3 = dice.Next(50, 101);
 Console.WriteLine($"First roll: {roll1}");
 Console.WriteLine($"Second roll: {roll2}");
 Console.WriteLine($"Third roll: {roll3}");
+

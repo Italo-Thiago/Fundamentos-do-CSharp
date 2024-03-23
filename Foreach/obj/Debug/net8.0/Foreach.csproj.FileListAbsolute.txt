@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\bin\Debug\net8.0\Foreach.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\bin\Debug\net8.0\Foreach.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\bin\Debug\net8.0\Foreach.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\bin\Debug\net8.0\Foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\bin\Debug\net8.0\Foreach.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\refint\Foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\Foreach.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Foreach\obj\Debug\net8.0\ref\Foreach.dll

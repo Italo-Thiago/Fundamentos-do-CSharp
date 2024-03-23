@@ -13,3 +13,18 @@
 /mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.pdb
 /mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/TwoMessages.genruntimeconfig.cache
 /mnt/c/Users/italo/Desktop/Cursos/Fundamentos-do-CSharp/TwoMessages/obj/Debug/net8.0/ref/TwoMessages.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\bin\Debug\net8.0\TwoMessages.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\bin\Debug\net8.0\TwoMessages.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\bin\Debug\net8.0\TwoMessages.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\bin\Debug\net8.0\TwoMessages.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\bin\Debug\net8.0\TwoMessages.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\refint\TwoMessages.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\TwoMessages.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Sáida de dados via CLI\obj\Debug\net8.0\ref\TwoMessages.dll
