@@ -1,27 +1,25 @@
 ﻿/*
-Convert the message into a char array
-Reverse the chars
-count the o's
-Convert it back to a string
-Print it out
+  This code reverses a message, counts the number of times
+  a particular character appears, then prints the results
+  to the console window.
 */
 
-string message = "The quick brown fox jumped over the lazy dog.";
+string originalMessage = "The quick brown fox jumped over the lazy dog.";
 
-char[] charMessage = message.ToCharArray();
+char[] message = originalMessage.ToCharArray();
+Array.Reverse(Message);
 
-Array.Reverse(charMessage);
-int count = 0;
+int letterCount = 0;
 
-foreach (char character in charMessage)
+foreach (char letter in message)
 {
-  if (character == 'o')
+  if (letter == 'o')
   {
-    count++;
+    letterCount++;
   }
 }
 
-string newMessage = new string(charMessage);
+string newMessage = new string(message);
 
 Console.WriteLine(newMessage);
-Console.WriteLine($"'o' appears {x} times.");
+Console.WriteLine($"'o' appears {letterCount} times.");
