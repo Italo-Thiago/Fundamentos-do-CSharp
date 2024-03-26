@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\bin\Debug\net8.0\Tab_in_CSharp.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\bin\Debug\net8.0\Tab_in_CSharp.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\bin\Debug\net8.0\Tab_in_CSharp.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\bin\Debug\net8.0\Tab_in_CSharp.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\bin\Debug\net8.0\Tab_in_CSharp.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\refint\Tab_in_CSharp.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\Tab_in_CSharp.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Tab_in_CSharp\obj\Debug\net8.0\ref\Tab_in_CSharp.dll
