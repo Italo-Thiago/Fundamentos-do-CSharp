@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\bin\Debug\net8.0\Convenções.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\bin\Debug\net8.0\Convenções.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\bin\Debug\net8.0\Convenções.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\bin\Debug\net8.0\Convenções.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\bin\Debug\net8.0\Convenções.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\refint\Convenções.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\Convenções.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Convenções\obj\Debug\net8.0\ref\Convenções.dll
