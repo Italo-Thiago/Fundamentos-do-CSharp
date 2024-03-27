@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\bin\Debug\net8.0\Arrays_and_loop_foreach.exe
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\bin\Debug\net8.0\Arrays_and_loop_foreach.deps.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\bin\Debug\net8.0\Arrays_and_loop_foreach.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\bin\Debug\net8.0\Arrays_and_loop_foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\bin\Debug\net8.0\Arrays_and_loop_foreach.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\refint\Arrays_and_loop_foreach.dll
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.pdb
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\Arrays_and_loop_foreach.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Fundamentos-do-CSharp\Arrays_and_loop_foreach\obj\Debug\net8.0\ref\Arrays_and_loop_foreach.dll
